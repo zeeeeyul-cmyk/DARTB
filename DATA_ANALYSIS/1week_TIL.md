@@ -62,7 +62,9 @@ https://www.youtube.com/watch?v=D46j-e_IHlI&list=PLVsNizTWUw7FGzSRCkQrPEEe-ljVXg
 
 # 2️⃣ 수행 인증
 
-<!-- 교재에서 안내된 과정을 직접 실행해본 뒤, 진행 결과가 보이도록 4~6장의 스크린샷을 캡처하여 이 글을 지우고 첨부해주세요.-->
+<img width="811" height="554" alt="스크린샷 2026-03-08 오후 3 46 06" src="https://github.com/user-attachments/assets/d85a5a1f-e00f-483f-8e38-41b86808c4d5" />
+<img width="811" height="554" alt="스크린샷 2026-03-08 오후 3 46 13" src="https://github.com/user-attachments/assets/2c3e0826-9e44-4562-a2e8-f0c09324715b" />
+
 
 
 
