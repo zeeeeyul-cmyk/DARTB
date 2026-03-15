@@ -79,7 +79,9 @@ ORDER BY: 조회 결과를 특정 기준에 따라 정렬하는 문법
 
 # 2️⃣ 학습 인증란
 
+<img width="2360" height="1640" alt="Image" src="https://github.com/user-attachments/assets/c2d6ba39-6671-4aff-97fc-7dccd2e8ee89" />
 
+<img width="1429" height="775" alt="Image" src="https://github.com/user-attachments/assets/3bb5b093-689f-4d0c-8e35-60a802f50508" />
 
 
 
