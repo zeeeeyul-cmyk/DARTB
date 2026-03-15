@@ -76,7 +76,11 @@ select() : CSS 선택자 방식으로 태그 추출
 
 
 # 2️⃣ 수행 인증
-
+<img width="1429" height="775" alt="Image" src="https://github.com/user-attachments/assets/40c1cf44-b0ab-4f07-8bf1-08c371b69f70" />
+<img width="1186" height="654" alt="Image" src="https://github.com/user-attachments/assets/3e5bea94-ef31-4ddb-bbba-aedb2c0dac43" />
+<img width="1186" height="654" alt="Image" src="https://github.com/user-attachments/assets/5617ee50-24d0-4b52-a024-36179cb596fa" />
+<img width="1186" height="654" alt="Image" src="https://github.com/user-attachments/assets/20d36706-ed59-40f0-afca-02054e034a33" />
+<img width="1186" height="654" alt="Image" src="https://github.com/user-attachments/assets/1fe00c08-6e5b-4865-a677-87e74c0fd8d8" />
 
 
 
