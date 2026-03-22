@@ -69,7 +69,21 @@ str.contains() 는 특정 패턴이 포함된 행을 찾아 불리언 배열로 
 
 # 2️⃣ 수행 인증
 
+<img width="1128" height="620" alt="Image" src="https://github.com/user-attachments/assets/921fb723-ec69-402e-8175-69cc33a4d7cc" />
 
+<img width="1128" height="620" alt="Image" src="https://github.com/user-attachments/assets/31bb4770-4a4f-4899-a5ac-0366c22d2954" />
+
+<img width="1128" height="620" alt="Image" src="https://github.com/user-attachments/assets/711459e0-ade8-4785-adc7-7aae4c0c9f84" />
+
+<img width="1128" height="620" alt="Image" src="https://github.com/user-attachments/assets/d327298b-1ac6-4f20-8d62-9d2eb12f9ba0" />
+
+<img width="1128" height="620" alt="Image" src="https://github.com/user-attachments/assets/1bff928c-27d6-40ff-af9f-dc160040cf48" />
+
+<img width="1128" height="620" alt="Image" src="https://github.com/user-attachments/assets/7790089f-c62f-426c-882a-e8da56e92f40" />
+
+<img width="1128" height="620" alt="Image" src="https://github.com/user-attachments/assets/f1c77baa-503f-4707-81e7-e5bc76ab2744" />
+
+<img width="1440" height="767" alt="Image" src="https://github.com/user-attachments/assets/111a2e0a-58c8-4ac1-bc33-ca501f0d8043" />
 
 
 <br>
