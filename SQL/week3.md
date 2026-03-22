@@ -368,7 +368,17 @@ COUNTIF(조건) : 조건을 만족하는 행 수만 집계 (BigQuery 전용)
 # 2️⃣ 학습 인증란
 
 
+<img width="1440" height="789" alt="Image" src="https://github.com/user-attachments/assets/3ddfe42f-d40d-4d44-8258-5301ecefe8c2" />
 
+<img width="1440" height="789" alt="Image" src="https://github.com/user-attachments/assets/dfc975b0-950e-483a-abcb-d9826c21cba5" />
+
+<img width="1440" height="789" alt="Image" src="https://github.com/user-attachments/assets/fb938a90-4fc8-4d0a-9c06-972b14b4990e" />
+
+<img width="1440" height="900" alt="Image" src="https://github.com/user-attachments/assets/e8c4508d-3de8-4c13-b42e-b8387888a43d" />
+
+<!-- Failed to upload "스크린샷 2026-03-22 오후 10.58.18.png" -->
+
+<img width="1440" height="789" alt="Image" src="https://github.com/user-attachments/assets/2a6bb4c3-e0ad-46f4-975d-592ba6a5be3e" />
 
 
 <br><br>
