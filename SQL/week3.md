@@ -366,7 +366,7 @@ COUNTIF(조건) : 조건을 만족하는 행 수만 집계 (BigQuery 전용)
 ---
 
 # 2️⃣ 학습 인증란
-
+![Image](https://github.com/user-attachments/assets/f7d55ec9-0373-4592-b008-2de832962025)
 
 <img width="1440" height="789" alt="Image" src="https://github.com/user-attachments/assets/3ddfe42f-d40d-4d44-8258-5301ecefe8c2" />
 
