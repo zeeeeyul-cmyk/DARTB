@@ -55,8 +55,10 @@ mode() : 가장 많이 등장하는 최빈값을 반환한다.
 # 2️⃣ 수행 인증
 
 <!-- 교재에서 안내된 과정을 직접 실행해본 뒤, 진행 결과가 보이도록 3장 이상의 스크린샷을 캡처하여 아래에 첨부해주세요.-->
-
-
+<img width="859" height="636" alt="Image" src="https://github.com/user-attachments/assets/a1076ddb-e47b-49bd-84ac-a071ff390903" />
+<img width="859" height="636" alt="Image" src="https://github.com/user-attachments/assets/1ce41079-b7c3-4bd1-a083-4e9bc805ae80" />
+<img width="859" height="636" alt="Image" src="https://github.com/user-attachments/assets/5680a2cf-a714-437c-bfaa-d07343d6e5a6" />
+<img width="859" height="636" alt="Image" src="https://github.com/user-attachments/assets/4039946f-4ca7-40cf-a804-312c26bc126f" />
 
 <br>
 <br>
