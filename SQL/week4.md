@@ -163,7 +163,9 @@ SAFE_DIVIDE(x, y)
 
 <!-- 문제를 풀기 위하여 로그인이  필요합니다. -->
 
-<!-- 정답을 맞추게 되면, 정답입니다. 라는 칸이 생성되는데 이 부분을 캡처해서 이 주석을 지우시고 첨부해주시면 됩니다. --> 
+<img width="1440" height="783" alt="Image" src="https://github.com/user-attachments/assets/bed0fe30-a697-41e1-90f9-ac33a2fec616" />
+
+<img width="1440" height="783" alt="Image" src="https://github.com/user-attachments/assets/ed3bd348-04b6-4177-9539-83aa75cde977" />
 
 
 
