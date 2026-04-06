@@ -6,7 +6,10 @@
 
 **👀(수행 인증샷은 필수입니다.)** 
 
-
+<img width="1433" height="791" alt="Image" src="https://github.com/user-attachments/assets/54bf6250-6ba8-4680-833d-8802be927941" />
+<img width="1433" height="791" alt="Image" src="https://github.com/user-attachments/assets/52e2cd6d-4a5e-44fc-89ae-943c4b3a228d" />
+<img width="819" height="245" alt="Image" src="https://github.com/user-attachments/assets/1f96bfaa-55a1-4279-af78-994bd29cde52" />
+<img width="1432" height="789" alt="Image" src="https://github.com/user-attachments/assets/9f3e449b-d979-46f2-9498-9eab88596738" />
 
 ## SQL_BASIC_5th
 
