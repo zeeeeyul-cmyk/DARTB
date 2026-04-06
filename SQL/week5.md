@@ -218,7 +218,16 @@ CASE WHEN 문은 WHEN 조건 THEN 결과 형식으로 작성한다.
 <!-- 틀린쿼리에 대한 오류의 원인도 같이 작성해주세요. 문제에서 제공된 order_time 컬럼은 DATETIME type의 데이터를 가지고 있다고 가정합니다. -->
 
 ~~~
-여기에 답을 작성해주세요!
+정답: 2번, 4번
+2번
+오전/오후 집계가 아니라 시간대별(HOUR)로*자른 값을 구하고 있음
+SELECT에서는 DATETIME_TRUNC(order_time, HOUR)를 썼는데, GROUP BY는 order_time으로 해서 집계 기준도 맞지 않음
+그래서 의도한 오전/오후 주문 건수가 나오지 않음
+
+4번
+CASE문에 END가 빠져 있어서 문법 오류
+원래는 END AS time_group이어야 함
+
 ~~~
 
 
@@ -249,7 +258,13 @@ FROM pokemon;
 <!-- 근거와 함께 답을 작성해주세요 -->
 
 ~~~
-여기에 답을 작성해주세요!
+정답: Pikachu, Bulbasaur
+이유
+CASE문에서
+Fire → 'Hot'
+Water → 'Cool'
+그 외 → 'Normal'
+따라서 Electric인 Pikachu, Grass인 Bulbasaur는 모두 Normal로 출력됨
 ~~~
 
 
