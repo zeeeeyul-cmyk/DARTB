@@ -276,7 +276,11 @@ va='center' → 세로 가운데 정렬
 # 2️⃣ 수행 인증
 
 <!-- 교재에서 안내된 과정을 직접 실행해본 뒤, 진행 결과가 보이도록 4~6장의 스크린샷을 캡처하여 아래에 첨부해주세요.-->
-
+<img width="1175" height="696" alt="Image" src="https://github.com/user-attachments/assets/9bf407f4-3106-461b-a2fc-2d4157b7216b" />
+<img width="1175" height="696" alt="Image" src="https://github.com/user-attachments/assets/2f511404-40fb-4859-9fc4-4225312a17fb" />
+<img width="1175" height="696" alt="Image" src="https://github.com/user-attachments/assets/b1e87fbd-9c28-40ae-84ce-2f977a0c8dc7" />
+<img width="1175" height="696" alt="Image" src="https://github.com/user-attachments/assets/5b5881f9-6249-452a-9d13-165d012cdba2" />
+<img width="1175" height="696" alt="Image" src="https://github.com/user-attachments/assets/b190897f-9282-49d7-9891-89002ca9b818" />
 
 
 <br>
